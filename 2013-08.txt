@@ -1,0 +1,70 @@
+Gruppe 1: Leaks, Snowden
+------------------------
+
+ 1.   Die NSA bestreitet mit XKeyscore uneingeschränkten
+      Zugang zum Internet zuhaben, nennt aber keine Details.
+
+ 1.   Snowden erhält tempöräres Asyl in Russland und
+      verlässt den Transitbereich des Flughafens Scheremetjewo
+
+ 4.   Der Bundesnachrichtendienst leitet in grossem Umfang
+      Metadaten aus der eigenen Aufklärung an die NSA weiter,
+      was auf ein Abkommen von 2002 unter Mitwirkung des
+      damaligen Kanzleramtsminister Frank-Walter Steinmeier 
+      zurückgeht.
+ 
+11.   Die NSA betrachtet Deutschland als wichtiges Spionageziel,
+      obwohl deutsche Behörden Daten an die NSA liefern.
+
+23.   GCHQ zapft im Nahen Osten Unterseekabel an.
+
+25.   Die NSA hat illegal Videokonferenzen in der Zentrale der 
+      UN belauscht, was laut Abkommen verboten ist.
+
+27.   Weil in einem Gerichtsdokument der Name Google nicht geschwärzt 
+      wurde wird bekannt, dass Goggle Daten herausgeben musste 
+      und nicht darüber reden darf.
+ 
+
+Gruppe 2: Re-/Aktionen weltweit
+-------------------------------
+
+ 7.   In einem TV-Interview hat US-Präsident Barack Obama das 
+      Spähprogramm der NSA verteidigt und versichert, dass keine
+      US-Bürger ausspioniert würden.
+
+ 9.   Der als unabhängig geltende US-Emailanbieter Lavabit stellt
+      seine Dienste ein, nachdem US-Behörden massiven Druck auf
+      das Unternehmen ausgeübt haben.
+
+19.   Der Partner des Journalisten Glenn Greenwald wird stundenlang 
+      auf dem Londoner Flughafen Heathrow festgehalten.
+
+20.   Es wird bekannt, dass der britische Geheimdienst GCHQ auf
+      Anordnung von David Caeron bereits vor ein paar Wochen die 
+      Zerstörung von Festplatten mit Dokumenten von Edward Snowden 
+      verlangt und durchgeführt hat.
+
+
+Gruppe 3: Re-/Aktionen Deutschland
+----------------------------------
+
+ 3.  Bundeswirtschaftsminister Philipp Rösler will als Konsequenz
+     aus der NSA-Affaire die europäische Internetstruktur stärken.
+
+ 4.  Die Bundesstaatsanwaltschaft in Karlsruhe prüft Ermittlungen.
+
+ 5.  Der ehemalige Präsident des Bundesverfassungsgerichts Hans-Jürgen 
+     Papier lehnt das von Bundesinnenminister Friedrich verkündete
+     Supergrundrecht auf Sicherheit ab.
+
+ 9.  "E-Mail made in Germany" wird von der Telekom und United Internet
+     vorgestellt, wobei es sich jedoch nur um eine lange bekannte und
+     verbreitete Technik zur Absicherung des E-Mailverkehrs handelt.a
+
+12.  Geheimdienstkoordinator Ronald Pofalla erklärt die NSA-Affaire für
+     beendet, da NSA und GCHQ versichert haben, sich in Deutschland
+     an Gesetze zu halten.
+
+29.  Bundesinnenminister Friedrich erklärt, Deutsche würden weder 
+     überwacht, noch gäbe es politische oder Wirtschaftsspionage.
